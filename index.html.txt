@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Xoyagems | Automated Business Funding System</title>
+
+<meta name="description" content="Xoyagems helps businesses connect with funding opportunities through a simple online application process.">
+
+<style>
+
+*{
+box-sizing:border-box;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+margin:0;
+background:#f7f8fb;
+color:#222;
+}
+
+
+header{
+background:#081a33;
+color:white;
+padding:20px 8%;
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+
+
+.logo{
+font-size:30px;
+font-weight:bold;
+}
+
+.logo span{
+display:block;
+font-size:12px;
+color:#d4af37;
+}
+
+
+nav a{
+color:white;
+text-decoration:none;
+margin-left:20px;
+}
+
+
+.hero{
+background:linear-gradient(120deg,#081a33,#174477);
+color:white;
+padding:100px 10%;
+}
+
+
+.hero h1{
+font-size:50px;
+max-width:700px;
+}
+
+
+.hero p{
+font-size:20px;
+max-width:600px;
+line-height:1.6;
+}
+
+
+.button{
+display:inline-block;
+background:#d4af37;
+color:#000;
+padding:15px 35px;
+border-radius:8px;
+text-decoration:none;
+font-weight:bold;
+margin-top:20px;
+}
+
+
+section{
+padding:70px 10%;
+}
+
+
+h2{
+text-align:center;
+font-size:36px;
+margin-bottom:40px;
+}
+
+
+.cards{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+gap:25px;
+}
+
+
+.card{
+background:white;
+padding:30px;
+border-radius:15px;
+box-shadow:0 5px 20px #ddd;
+}
+
+
+.steps{
+display:flex;
+justify-content:center;
+gap:25px;
+flex-wrap:wrap;
+}
+
+
+.steps div{
+background:white;
+padding:30px;
+border-radius:15px;
+text-align:center;
+width:220px;
+}
+
+
+.steps strong{
+font-size:40px;
+color:#d4af37;
+}
+
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="logo">
+Xoyagems
+<span>Automated Business Funding System</span>
+</div>
+
+
+<nav>
+<a href="#solutions">Solutions</a>
+<a href="#process">Process</a>
+<a href="#apply">Apply</a>
+<a href="#faq">FAQ</a>
+</nav>
+
+</header>
+
+
+<section class="hero">
+
+<h1>
+Business Funding Made Simple
+</h1>
+
+
+<p>
+Connect with business funding opportunities through a fast and secure online application process.
+</p>
+
+
+<a class="button" href="#apply">
+Apply Now
+</a>
+
+
+</section>
+
+
+<section id="solutions">
+
+<h2>
+Funding Solutions
+</h2>
+
+
+<div class="cards">
+
+
+<div class="card">
+<h3>Working Capital</h3>
+<p>
+Support daily operations, cash flow, and business growth.
+</p>
+</div>
+
+
+<div class="card">
+<h3>Business Loans</h3>
+<p>
+Explore financing options designed for growing companies.
+</p>
+</div>
+
+
+<div class="card">
+<h3>Equipment Financing</h3>
+<p>
+Funding options for equipment and expansion needs.
+</p>
+</div>
+
+
+<div class="card">
+<h3>Business Lines of Credit</h3>
+<p>
+Flexible access to capital when your business needs it.
+</p>
+</div>
+
+
+</div>
+
+</section>
+
+<section id="process">
+
+<h2>
+How It Works
+</h2>
+
+
+<div class="steps">
+
+<div>
+<strong>1</strong>
+<h3>Apply Online</h3>
+<p>
+Complete the secure business funding application.
+</p>
+</div>
+
+
+<div>
+<strong>2</strong>
+<h3>Review</h3>
+<p>
+Your information is reviewed by funding specialists.
+</p>
+</div>
+
+
+<div>
+<strong>3</strong>
+<h3>Explore Options</h3>
+<p>
+Available funding options are discussed with you.
+</p>
+</div>
+
+
+</div>
+
+</section>
+
+
+
+
+<section id="apply">
+
+<h2>
+Start Your Application
+</h2>
+
+
+<p style="text-align:center;">
+Complete the secure application below.
+</p>
+
+
+<iframe 
+id="afn-iframe"
+src="https://app.advancefundsnetwork.com/partner-embed/c96MALi1wKb0NDa3zIanpRqeAOl1?background=%23ffffff00&padding=20&color="
+width="100%"
+height="600px"
+style="border:0;"
+scrolling="no">
+</iframe>
+
+
+</section>
+
+
+
+
+<section id="faq">
+
+
+<h2>
+Frequently Asked Questions
+</h2>
+
+
+<div class="card">
+
+<h3>
+How does Xoyagems work?
+</h3>
+
+<p>
+Xoyagems connects businesses with funding opportunities through a simple online application process.
+</p>
+
+
+<h3>
+Is funding guaranteed?
+</h3>
+
+<p>
+No. Applications are reviewed based on business information and funding requirements.
+</p>
+
+
+<h3>
+How do I apply?
+</h3>
+
+<p>
+Complete the secure application form above and a funding specialist will review your request.
+</p>
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+<footer style="
+background:#081a33;
+color:white;
+padding:30px;
+text-align:center;
+">
+
+
+<p>
+© 2026 Xoyagems. All Rights Reserved.
+</p>
+
+
+</footer>
+
+
+
+
+
+<!-- Xoya AI Assistant - Botpress -->
+
+<script src="https://cdn.botpress.cloud/webchat/v5.0/inject.js"></script>
+
+<script src="https://files.bpcontent.cloud/2026/07/28/12/20260728120902-AI43KV54.js" defer></script>
+
+
+
+
+
+<script>
+
+
+window.addEventListener('message', function(event){
+
+
+if(event.origin !== "https://app.advancefundsnetwork.com")
+return;
+
+
+if(event.data && event.data.iframeHeight){
+
+
+document.getElementById('afn-iframe').style.height =
+event.data.iframeHeight + "px";
+
+
+}
+
+
+});
+
+
+</script>
+
+<style>
+
+/* Mobile Responsive Design */
+
+@media(max-width:768px){
+
+header{
+
+display:block;
+text-align:center;
+
+}
+
+
+nav{
+
+margin-top:20px;
+
+}
+
+
+nav a{
+
+display:inline-block;
+margin:10px;
+
+}
+
+
+.hero{
+
+padding:60px 8%;
+
+}
+
+
+.hero h1{
+
+font-size:36px;
+
+}
+
+
+.hero p{
+
+font-size:18px;
+
+}
+
+
+section{
+
+padding:50px 8%;
+
+}
+
+
+h2{
+
+font-size:30px;
+
+}
+
+
+iframe{
+
+width:100%;
+
+}
+
+}
+
+</style>
+
+
+</body>
+
+</html>
